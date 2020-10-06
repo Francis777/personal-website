@@ -8,10 +8,10 @@ middle_name:
 last_name: Zhang
 email: francis@wayve.ai
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Xieyuan (Francis) Zhang @ Wayve
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. 
-  
+
   <p> LLJW stands for <a href="https://youtu.be/IGz6HxgbElU" target="_blank">"Long Live Juice Wrld"</a>. 999 Forever. </p>
 
 url: # the base hostname & protocol for your site
