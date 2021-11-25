@@ -12,6 +12,7 @@ footer_text:
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   <br><a href="https://youtu.be/Jc_ppcB7_Yk"><b>L</b>ong <b>L</b>ive <b>J</b>uice <b>W</b>rld</a>. 999 Forever.
 
+lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: # the emoji used as the favicon (use Wayve favicon instead)
 url: https://francis777.github.io/personal-website # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -136,19 +137,43 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll/scholar
+  - jekyll-archives
   - jekyll-diagrams
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-github-metadata
   - jekyll-paginate-v2
+  - jekyll-responsive-image
+  - jekyll/scholar
   - jekyll-sitemap
   - jekyll-target-blank
   - jekyll-twitter-plugin
   - jemoji
 
+# Sitemap settings
+defaults:
+  - scope:
+      path: "assets/**/*.*"
+    values:
+      sitemap: false
+
 # Extras
 github: [metadata]
+
+# -----------------------------------------------------------------------------
+# Jekyll Archives
+# -----------------------------------------------------------------------------
+
+jekyll-archives:
+  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  layouts:
+    year: archive-year
+    tag: archive-tag
+    category: archive-category
+  permalinks:
+    year: "/blog/:year/"
+    tag: "/blog/tag/:name/"
+    category: "/blog/category/:name/"
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -177,6 +202,22 @@ scholar:
   details_link: Details
 
   query: "@*"
+
+# -----------------------------------------------------------------------------
+# Jekyll Responsive Images
+# -----------------------------------------------------------------------------
+
+responsive_image:
+  template: _includes/responsive_img.html
+  # Quality to use when resizing images.
+  default_quality: 80
+  sizes:
+    - width: 480
+    - width: 800
+    - width: 1400
+      quality: 90
+  # Strip EXIF and other JPEG profiles. Helps to minimize JPEG size.
+  strip: true
 
 # -----------------------------------------------------------------------------
 # Jekyll Diagrams
