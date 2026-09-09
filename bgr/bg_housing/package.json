@@ -1,0 +1,31 @@
+{
+  "name": "dwelling-lens-bulgaria",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "node server/dev.mjs",
+    "dev:static": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "node server/index.mjs",
+    "preview:static": "vite preview",
+    "start": "node server/index.mjs",
+    "api": "node server/index.mjs",
+    "test": "node --test test/*.test.mjs",
+    "data:inspect": "node scripts/read-xlsx.mjs"
+  },
+  "dependencies": {
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.12",
+    "@types/react-dom": "18.3.1",
+    "@vitejs/plugin-react": "4.3.4",
+    "typescript": "5.6.3",
+    "vite": "^6.4.3"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

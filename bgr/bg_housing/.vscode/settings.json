@@ -1,0 +1,16 @@
+{
+  "remote.autoForwardPorts": true,
+  "remote.autoForwardPortsSource": "process",
+  "remote.portsAttributes": {
+    "4173": {
+      "label": "Dwelling Lens API and built site",
+      "onAutoForward": "silent",
+      "protocol": "http"
+    },
+    "5173": {
+      "label": "Dwelling Lens development site",
+      "onAutoForward": "openBrowser",
+      "protocol": "http"
+    }
+  }
+}

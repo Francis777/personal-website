@@ -1,0 +1,2023 @@
+{
+  "source": "https://www.bulgarianwine.net/location-type/wineries",
+  "fetchedAt": "2026-09-01T08:04:28.996Z",
+  "records": [
+    {
+      "id": "directory-aroniada",
+      "sourceSlug": "aroniada",
+      "name": "Aroniada",
+      "locality": "Ruse",
+      "province": "Ruse",
+      "region": "danube-plain",
+      "lat": 43.84845,
+      "lon": 25.95356,
+      "address": "3, ет. 5 ulitsa \"Tsarkovna nezavisimost\" Ruse Center, Ruse, Ruse, Ruse, 7000",
+      "summary": "A winery in Ruse, mapped within the Danube Plain. Verify current visitor access before travelling.",
+      "styles": [
+        "Red"
+      ],
+      "grapes": [],
+      "experiences": [],
+      "organic": true,
+      "website": "http://aronia-bg.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/aroniada",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-balar-estate-winery",
+      "sourceSlug": "balar-estate-winery",
+      "name": "Balar Estate Winery",
+      "locality": "Skalitsa",
+      "province": "Yambol",
+      "region": "thracian-lowland",
+      "lat": 42.266455,
+      "lon": 26.254329,
+      "address": "Skalitsa, Tundja, Yambol, 8645",
+      "summary": "A winery in Skalitsa, mapped within the Thracian Lowland, with directory tags including Petit Verdot and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White"
+      ],
+      "grapes": [
+        "Petit Verdot",
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Gewürztraminer",
+        "Moscato"
+      ],
+      "experiences": [],
+      "website": "http://wines-balar.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/balar-estate-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-black-sea-gold-pomorie",
+      "sourceSlug": "black-sea-gold-pomorie",
+      "name": "Black Sea Gold Pomorie",
+      "locality": "Pomorie",
+      "province": "Burgas",
+      "region": "black-sea",
+      "lat": 42.581249,
+      "lon": 27.603337,
+      "address": "Pomorie, Pomorie, Burgas, 8200",
+      "summary": "A winery in Pomorie, mapped within the Black Sea Coast, with directory tags including Cabernet Franc and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Chardonnay",
+        "Dimyat",
+        "Rkaziteli",
+        "Sauvignon Blanc",
+        "Viognier"
+      ],
+      "experiences": [
+        "Tastings",
+        "Cellar tour"
+      ],
+      "website": "http://www.bsgold.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/black-sea-gold-pomorie",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-borovitza-winery",
+      "sourceSlug": "borovitza-winery",
+      "name": "Borovitza Winery",
+      "locality": "Belogradchik",
+      "province": "Vidin",
+      "region": "danube-plain",
+      "lat": 43.627835,
+      "lon": 22.682956,
+      "address": "Belogradchik, Belogradchik, Vidin, 3900",
+      "summary": "A winery in Belogradchik, mapped within the Danube Plain, with directory tags including Cabernet Sauvignon and Gamza. Verify current visitor access before travelling.",
+      "styles": [
+        "White",
+        "Rosé",
+        "Sparkling"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Gamza",
+        "Merlot",
+        "Chardonnay",
+        "Sauvignon Blanc",
+        "Pinot Noir"
+      ],
+      "experiences": [],
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/borovitza-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-bratanov-winery",
+      "sourceSlug": "bratanov-winery",
+      "name": "Bratanov Winery",
+      "locality": "Harmanli",
+      "province": "Haskovo",
+      "region": "thracian-lowland",
+      "lat": 41.924928,
+      "lon": 25.919925,
+      "address": "9 bulevard \"Bulgaria\", Harmanli, Haskovo, 6450",
+      "summary": "A winery in Harmanli, mapped within the Thracian Lowland, with directory tags including Cabernet Franc and Mavrud. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Mavrud",
+        "Merlot",
+        "Rubin",
+        "Chardonnay",
+        "Tamyanka"
+      ],
+      "experiences": [
+        "Tastings",
+        "Cellar tour"
+      ],
+      "website": "http://www.bratanovi.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/bratanov-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-castra-rubra-winery",
+      "sourceSlug": "castra-rubra-winery",
+      "name": "Castra Rubra Winery",
+      "locality": "Sofia",
+      "province": "Sofia-city",
+      "region": "thracian-lowland",
+      "lat": 42.672963,
+      "lon": 23.328841,
+      "address": "7 ulitsa \"Yakubitsa\", Sofia, Sofia, Sofia-city, 1164",
+      "summary": "A winery in Sofia, mapped within the Thracian Lowland, with directory tags including Petit Verdot and Mavrud. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Petit Verdot",
+        "Mavrud",
+        "Malbec",
+        "Merlot",
+        "Pinot Noir",
+        "Rubin",
+        "Sauvignon Blanc",
+        "Semillon"
+      ],
+      "experiences": [
+        "Tastings",
+        "Cellar tour"
+      ],
+      "website": "http://telish.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/castra-rubra-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-chateau-burgozone",
+      "sourceSlug": "chateau-burgozone",
+      "name": "Chateau Burgozone",
+      "locality": "Leskovets",
+      "province": "Vratza",
+      "region": "thracian-lowland",
+      "lat": 43.707741,
+      "lon": 24.01454,
+      "address": "Oryahovsko Shose Str. No 1, Leskovets, Oryahovo, Vratza, 3341",
+      "summary": "A winery in Leskovets, mapped within the Thracian Lowland, with directory tags including Cabernet Sauvignon and Merlot. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Pinot Noir",
+        "Chardonnay",
+        "Sauvignon Blanc",
+        "Viognier"
+      ],
+      "experiences": [
+        "Tastings",
+        "Cellar tour"
+      ],
+      "website": "http://www.burgozone.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/chateau-burgozone",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-chateau-copsa",
+      "sourceSlug": "chateau-copsa",
+      "name": "Chateau Copsa",
+      "locality": "Chateau Copsa Winery",
+      "province": "Plovdiv",
+      "region": "rose-valley",
+      "lat": 42.648015,
+      "lon": 24.706185,
+      "address": "32 General Kartsov Str, Chateau Copsa Winery, Karlovo, Plovdiv, 4330",
+      "summary": "A winery in Chateau Copsa Winery, mapped within the Rose Valley, with directory tags including Cabernet Sauvignon and Merlot. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Chardonnay",
+        "Misket",
+        "Moscato"
+      ],
+      "experiences": [
+        "Tastings",
+        "Cellar tour",
+        "Stay",
+        "Restaurant"
+      ],
+      "website": "http://copsa.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/chateau-copsa",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-chateau-de-val",
+      "sourceSlug": "chateau-de-val",
+      "name": "Chateau de Val",
+      "locality": "Gradets",
+      "province": "Vidin",
+      "region": "danube-plain",
+      "lat": 44.02876,
+      "lon": 22.75087,
+      "address": "Ул. Първа 201, Gradets, Vidin, 3780",
+      "summary": "A winery in Gradets, mapped within the Danube Plain, with directory tags including Petit Verdot and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Petit Verdot",
+        "Cabernet Sauvignon",
+        "Gamza",
+        "Merlot",
+        "Chardonnay",
+        "Sauvignon Blanc",
+        "Moscato",
+        "Riesling"
+      ],
+      "experiences": [],
+      "website": "http://www.chateaudeval.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/chateau-de-val",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-chateau-kolarovo",
+      "sourceSlug": "chateau-kolarovo",
+      "name": "Chateau Kolarovo",
+      "locality": "Kolarovo",
+      "province": "Haskovo",
+      "region": "thracian-lowland",
+      "lat": 41.969504,
+      "lon": 26.023607,
+      "address": "Kolarovo, Harmanli, Haskovo Province, 6460",
+      "summary": "A winery in Kolarovo, mapped within the Thracian Lowland, with directory tags including Cabernet Sauvignon and Mavrud. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Mavrud",
+        "Merlot",
+        "Viognier"
+      ],
+      "experiences": [],
+      "website": "http://chateaukolarovo.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/chateau-kolarovo",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-chateau-windy-hills",
+      "sourceSlug": "chateau-windy-hills",
+      "name": "Chateau Windy Hills",
+      "locality": "Sliven",
+      "province": "Sliven",
+      "region": "rose-valley",
+      "lat": 42.609145,
+      "lon": 26.217374,
+      "address": "2 ulitsa \"Industrialna\", Sliven, Sliven, Sliven, 8840",
+      "summary": "A winery in Sliven, mapped within the Rose Valley, with directory tags including Cabernet Sauvignon and Mavrud. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Mavrud",
+        "Merlot",
+        "Moscato"
+      ],
+      "experiences": [
+        "Tastings",
+        "Cellar tour"
+      ],
+      "website": "http://windyhills-bg.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/chateau-windy-hills",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-damianitza-winery",
+      "sourceSlug": "damianitza-winery",
+      "name": "Damianitza Winery",
+      "locality": "Sofia",
+      "province": "Sofia-city",
+      "region": "thracian-lowland",
+      "lat": 42.69234,
+      "lon": 23.32917,
+      "address": "Ivan Vazov 9 Street, Sofia, Sofia-city, 1000",
+      "summary": "A winery in Sofia, mapped within the Thracian Lowland, with directory tags including Cabernet Franc and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé",
+        "Dessert"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Rubin",
+        "Shiroka Melnishka loza",
+        "Chardonnay",
+        "Sauvignon Blanc",
+        "Moscato"
+      ],
+      "experiences": [
+        "Tastings"
+      ],
+      "website": "http://damianitza.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/damianitza-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-dives-winery",
+      "sourceSlug": "dives-winery",
+      "name": "DiVes Winery",
+      "locality": "Поморие",
+      "province": "Бургас",
+      "region": "thracian-lowland",
+      "lat": 42.636133,
+      "lon": 27.615458,
+      "address": "Simeon's Hill No 3, Поморие, Бургас, 8210",
+      "summary": "A winery in Поморие, mapped within the Thracian Lowland, with directory tags including Cabernet Sauvignon and Merlot. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Sauvignon Blanc",
+        "Moscato"
+      ],
+      "experiences": [
+        "Cellar tour"
+      ],
+      "website": "http://divesestate-bg.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/dives-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-domain-menada",
+      "sourceSlug": "domain-menada",
+      "name": "Domain Menada",
+      "locality": "Stara Zagora",
+      "province": "Stara Zagora",
+      "region": "thracian-lowland",
+      "lat": 42.419408,
+      "lon": 25.626287,
+      "address": "1 ulitsa \"Hadzhi Dimitar Asenov\", Stara Zagora, Stara Zagora, Stara Zagora, 6002",
+      "summary": "A winery in Stara Zagora, mapped within the Thracian Lowland, with directory tags including Cabernet Franc and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Cabernet Sauvignon",
+        "Mavrud",
+        "Malbec",
+        "Merlot",
+        "Rubin",
+        "Chardonnay",
+        "Sauvignon Blanc"
+      ],
+      "experiences": [],
+      "website": "http://www.facebook.com/domainmenada",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/domain-menada",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-edoardo-miroglio",
+      "sourceSlug": "edoardo-miroglio",
+      "name": "Edoardo Miroglio",
+      "locality": "Elenovo",
+      "province": "Sliven",
+      "region": "thracian-lowland",
+      "lat": 42.38539,
+      "lon": 26.144813,
+      "address": "Elenovo, Nova Zagora, Sliven, 8943",
+      "summary": "A winery in Elenovo, mapped within the Thracian Lowland, with directory tags including Cabernet Franc and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Sparkling"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Cabernet Sauvignon",
+        "Mavrud",
+        "Merlot",
+        "Rubin",
+        "Chardonnay"
+      ],
+      "experiences": [
+        "Tastings",
+        "Cellar tour"
+      ],
+      "organic": true,
+      "website": "http://www.emiroglio-wine.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/edoardo-miroglio",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-enira-domaine-bessa-valley",
+      "sourceSlug": "enira-domaine-bessa-valley",
+      "name": "Enira Domaine Bessa Valley",
+      "locality": "Bessa Valley Winery",
+      "province": "Pazardjik",
+      "region": "thracian-lowland",
+      "lat": 42.118153,
+      "lon": 24.419732,
+      "address": "8004 Zad baira Neighborhood, Bessa Valley Winery, Pazardzhik, Pazardjik, 4417",
+      "summary": "A winery in Bessa Valley Winery, mapped within the Thracian Lowland, with directory tags including Cabernet Sauvignon and Merlot. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Merlot"
+      ],
+      "experiences": [
+        "Tastings",
+        "Cellar tour"
+      ],
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/enira-domaine-bessa-valley",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-eolis-winery",
+      "sourceSlug": "eolis-winery",
+      "name": "Eolis Winery",
+      "locality": "Stara Zagora",
+      "province": "Stara Zagora",
+      "region": "thracian-lowland",
+      "lat": 42.426792,
+      "lon": 25.643613,
+      "address": "ulitsa \"Anton Marchin\"2, Stara Zagora, Stara Zagora, 6001",
+      "summary": "A winery in Stara Zagora, mapped within the Thracian Lowland, with directory tags including Cabernet Franc and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "White"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Gewürztraminer",
+        "Sauvignon Blanc",
+        "Semillon",
+        "Viognier"
+      ],
+      "experiences": [],
+      "website": "http://eolisestate.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/eolis-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-gulbanis-wine-winery",
+      "sourceSlug": "gulbanis-wine-winery",
+      "name": "Gulbanis Wine Winery",
+      "locality": "Gorna Oryahovitsa",
+      "province": "Veliko Tarnovo",
+      "region": "danube-plain",
+      "lat": 43.120802,
+      "lon": 25.689676,
+      "address": "1 Khan Krum Street, Gorna Oryahovitsa, Gorna Oryahovitza, Veliko Tarnovo Province, 5100",
+      "summary": "A winery in Gorna Oryahovitsa, mapped within the Danube Plain, with directory tags including Cabernet Franc and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Cabernet Sauvignon",
+        "Marselan",
+        "Merlot",
+        "Chardonnay",
+        "Gewürztraminer",
+        "Moscato"
+      ],
+      "experiences": [],
+      "website": "http://gulbaniswine.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/gulbanis-wine-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-karabunar-winery",
+      "sourceSlug": "karabunar-winery",
+      "name": "Karabunar Winery",
+      "locality": "Karabunar",
+      "province": "Pazardjik",
+      "region": "thracian-lowland",
+      "lat": 42.262131,
+      "lon": 24.171867,
+      "address": "Karabunar, Septemvri, Pazardjik, 4484",
+      "summary": "A winery in Karabunar, mapped within the Thracian Lowland, with directory tags including Cabernet Sauvignon and Mavrud. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Mavrud",
+        "Merlot",
+        "Pinot Noir",
+        "Chardonnay",
+        "Dimyat",
+        "Sauvignon Blanc",
+        "Misket"
+      ],
+      "experiences": [],
+      "website": "http://bulgarian-heritage.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/karabunar-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-kaynardzha",
+      "sourceSlug": "kaynardzha",
+      "name": "Kaynardzha",
+      "locality": "Kaynardzha",
+      "province": "Silistra",
+      "region": "danube-plain",
+      "lat": 43.992349,
+      "lon": 27.50394,
+      "address": "42 \"Georgi Tokushev\", Kaynardzha, Kaynardja, Silistra, 7550",
+      "summary": "A winery in Kaynardzha, mapped within the Danube Plain, with directory tags including Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Sparkling"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon"
+      ],
+      "experiences": [],
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/kaynardzha",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-khan-krum",
+      "sourceSlug": "khan-krum",
+      "name": "Khan Krum",
+      "locality": "Han Krum",
+      "province": "Shumen",
+      "region": "black-sea",
+      "lat": 43.206276,
+      "lon": 26.892923,
+      "address": "Han Krum, Veliki Preslav, Shumen Province, 9863",
+      "summary": "A winery in Han Krum, mapped within the Black Sea Coast, with directory tags including Cabernet Franc and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé",
+        "Sparkling"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Cabernet Sauvignon",
+        "Mavrud",
+        "Merlot",
+        "Chardonnay",
+        "Dimyat",
+        "Gewürztraminer",
+        "Moscato"
+      ],
+      "experiences": [],
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/khan-krum",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-light-castle-winery",
+      "sourceSlug": "light-castle-winery",
+      "name": "Light Castle Winery",
+      "locality": "Ivaylovgrad",
+      "province": "Haskovo",
+      "region": "thracian-lowland",
+      "lat": 41.530555,
+      "lon": 26.12699,
+      "address": "598, Ivaylovgrad, Ivaylovgrad, Haskovo, 6570",
+      "summary": "A winery in Ivaylovgrad, mapped within the Thracian Lowland, with directory tags including Cabernet Sauvignon and Merlot. Verify current visitor access before travelling.",
+      "styles": [
+        "Red"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Pinot Noir",
+        "Sangiovese"
+      ],
+      "experiences": [],
+      "website": "http://castle.light.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/light-castle-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-lovico-suhindol-winery",
+      "sourceSlug": "lovico-suhindol-winery",
+      "name": "Lovico Suhindol Winery",
+      "locality": "Suhindol",
+      "province": "Veliko Tarnovo",
+      "region": "danube-plain",
+      "lat": 43.176365,
+      "lon": 25.160432,
+      "address": "156 Rositsa Street, Suhindol, Veliko Tarnovo, 5240",
+      "summary": "A winery in Suhindol, mapped within the Danube Plain, with directory tags including Cabernet Franc and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Cabernet Sauvignon",
+        "Gamza",
+        "Mavrud",
+        "Merlot",
+        "Sauvignon Blanc"
+      ],
+      "experiences": [],
+      "website": "http://lovico.eu",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/lovico-suhindol-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-lvk-vinprom-targovishte",
+      "sourceSlug": "lvk-vinprom-targovishte",
+      "name": "LVK-Vinprom Targovishte",
+      "locality": "Targovishte",
+      "province": "Targovishte",
+      "region": "danube-plain",
+      "lat": 43.256606,
+      "lon": 26.575916,
+      "address": "8, 29th January Street, Targovishte, Targovishte, 7700",
+      "summary": "A winery in Targovishte, mapped within the Danube Plain, with directory tags including Cabernet Sauvignon and Merlot. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Sparkling"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Chardonnay",
+        "Gewürztraminer",
+        "Sauvignon Blanc",
+        "Moscato"
+      ],
+      "experiences": [],
+      "website": "http://www.lvk-vinprom.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/lvk-vinprom-targovishte",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-manastira-winery",
+      "sourceSlug": "manastira-winery",
+      "name": "Manastira Winery",
+      "locality": "Lesichovo",
+      "province": "Pazardzik",
+      "region": "thracian-lowland",
+      "lat": 42.356944,
+      "lon": 24.111569,
+      "address": "Lesichovo, Lesichovo, Pazardzik",
+      "summary": "A winery in Lesichovo, mapped within the Thracian Lowland, with directory tags including Cabernet Sauvignon and Mavrud. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Mavrud",
+        "Merlot",
+        "Chardonnay",
+        "Sauvignon Blanc",
+        "Moscato"
+      ],
+      "experiences": [],
+      "website": "http://manastirawinery.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/manastira-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-marvin-winery",
+      "sourceSlug": "marvin-winery",
+      "name": "Marvin Winery",
+      "locality": "Hadzhidimitrovo",
+      "province": "Yambol",
+      "region": "rose-valley",
+      "lat": 42.6724,
+      "lon": 25.351081,
+      "address": "Hadzhidimitrovo, Yambol, 8635",
+      "summary": "A winery in Hadzhidimitrovo, mapped within the Rose Valley, with directory tags including Cabernet Sauvignon and Merlot. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Pinot Noir",
+        "Sauvignon Blanc",
+        "Moscato",
+        "Viognier"
+      ],
+      "experiences": [],
+      "website": "http://marvin.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/marvin-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-maryan-winery",
+      "sourceSlug": "maryan-winery",
+      "name": "Maryan Winery",
+      "locality": "Maryan",
+      "province": "Veliko Tarnovo",
+      "region": "danube-plain",
+      "lat": 42.930631,
+      "lon": 25.963754,
+      "address": "32 53, Maryan, Veliko Tarnovo, 5084",
+      "summary": "A winery in Maryan, mapped within the Danube Plain, with directory tags including Petit Verdot and Cabernet Franc. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Petit Verdot",
+        "Cabernet Franc",
+        "Cabernet Sauvignon",
+        "Chardonnay",
+        "Dimyat",
+        "Sauvignon Blanc"
+      ],
+      "experiences": [],
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/maryan-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-midalidare-estate-winery",
+      "sourceSlug": "midalidare-estate-winery",
+      "name": "MIdalidare Estate Winery",
+      "locality": "s. Mogilovo",
+      "province": "Stara Zagora",
+      "region": "thracian-lowland",
+      "lat": 42.341845,
+      "lon": 25.406055,
+      "address": "s. Mogilovo, Stara Zagora, 6239",
+      "summary": "A winery in s. Mogilovo, mapped within the Thracian Lowland, with directory tags including Cabernet Franc and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Cabernet Sauvignon",
+        "Malbec",
+        "Merlot",
+        "Chardonnay",
+        "Gewürztraminer",
+        "Sauvignon Blanc",
+        "Riesling"
+      ],
+      "experiences": [
+        "Tastings",
+        "Cellar tour",
+        "Events"
+      ],
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/midalidare-estate-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-minkov-brothers",
+      "sourceSlug": "minkov-brothers",
+      "name": "Minkov Brothers",
+      "locality": "Karnobat",
+      "province": "Burgas",
+      "region": "rose-valley",
+      "lat": 42.651105,
+      "lon": 26.980353,
+      "address": "Karnobat, Karnobat, Burgas, 8400",
+      "summary": "A winery in Karnobat, mapped within the Rose Valley, with directory tags including Cabernet Franc and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Pinot Noir",
+        "Chardonnay",
+        "Gewürztraminer",
+        "Sauvignon Blanc",
+        "Moscato"
+      ],
+      "experiences": [
+        "Tastings",
+        "Cellar tour"
+      ],
+      "website": "http://www.minkovbrothers.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/minkov-brothers",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-neragora",
+      "sourceSlug": "neragora",
+      "name": "Neragora",
+      "locality": "Chernogorovo",
+      "province": "Pazardjik",
+      "region": "thracian-lowland",
+      "lat": 42.272217,
+      "lon": 24.40082,
+      "address": "Mogilata Street, Chernogorovo, Pazardzhik, Pazardjik, 4455",
+      "summary": "A winery in Chernogorovo, mapped within the Thracian Lowland, with directory tags including Cabernet Sauvignon and Mavrud. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Mavrud",
+        "Merlot",
+        "Pinot Noir",
+        "Chardonnay"
+      ],
+      "experiences": [],
+      "organic": true,
+      "website": "http://www.neragora.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/neragora",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-rossidi-winery",
+      "sourceSlug": "rossidi-winery",
+      "name": "Rossidi Winery",
+      "locality": "Sliven",
+      "province": "Sliven",
+      "region": "rose-valley",
+      "lat": 42.681654,
+      "lon": 26.322869,
+      "address": "Sliven, Sliven, Sliven Province, 8800",
+      "summary": "A winery in Sliven, mapped within the Rose Valley, with directory tags including Cabernet Sauvignon and Merlot. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé",
+        "Orange / low-intervention"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Pinot Noir",
+        "Rubin",
+        "Chardonnay",
+        "Gewürztraminer"
+      ],
+      "experiences": [],
+      "website": "http://rossidi.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/rossidi-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-rousse-wine-house-leventa-complex",
+      "sourceSlug": "rousse-wine-house-leventa-complex",
+      "name": "Rousse Wine House / Leventa Complex",
+      "locality": "Ruse",
+      "province": "Ruse",
+      "region": "danube-plain",
+      "lat": 43.840398,
+      "lon": 25.954885,
+      "address": "73 bulevard Borisova, Ruse, Ruse, 7012",
+      "summary": "A winery in Ruse, mapped within the Danube Plain, with directory tags including Cabernet Sauvignon and Merlot. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Chardonnay",
+        "Gewürztraminer",
+        "Sauvignon Blanc"
+      ],
+      "experiences": [],
+      "website": "http://www.leventa-bg.net",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/rousse-wine-house-leventa-complex",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-rumelia-wine-cellar",
+      "sourceSlug": "rumelia-wine-cellar",
+      "name": "Rumelia Wine Cellar",
+      "locality": "Panagyurishte",
+      "province": "Pazardjik",
+      "region": "rose-valley",
+      "lat": 42.496769,
+      "lon": 24.195168,
+      "address": "ulitsa \"Bratya Deykovi\", Panagyurishte, Panagyurishte, Pazardjik, 4500",
+      "summary": "A winery in Panagyurishte, mapped within the Rose Valley, with directory tags including Cabernet Sauvignon and Mavrud. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Mavrud",
+        "Merlot",
+        "Moscato"
+      ],
+      "experiences": [
+        "Tastings",
+        "Cellar tour"
+      ],
+      "website": "http://www.rumelia.net",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/rumelia-wine-cellar",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-saedinenie-winery",
+      "sourceSlug": "saedinenie-winery",
+      "name": "Saedinenie Winery",
+      "locality": "Saedinenie",
+      "province": "Plovdiv",
+      "region": "thracian-lowland",
+      "lat": 42.274693,
+      "lon": 24.546555,
+      "address": "Ул. Пирин планина 1, Saedinenie, Saedinenie, Plovdiv Province, 4190",
+      "summary": "A winery in Saedinenie, mapped within the Thracian Lowland, with directory tags including Cabernet Sauvignon and Dornfelder. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Dornfelder",
+        "Marselan",
+        "Merlot",
+        "Chardonnay",
+        "Sauvignon Blanc",
+        "Moscato",
+        "Viognier"
+      ],
+      "experiences": [],
+      "website": "http://veranoazur.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/saedinenie-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-salla-estate-winery",
+      "sourceSlug": "salla-estate-winery",
+      "name": "Salla Estate Winery",
+      "locality": "Blaskovo",
+      "province": "Varna",
+      "region": "black-sea",
+      "lat": 43.118203,
+      "lon": 27.330095,
+      "address": "Blaskovo, Varna, 9240",
+      "summary": "A winery in Blaskovo, mapped within the Black Sea Coast, with directory tags including Cabernet Franc and Pinot Noir. Verify current visitor access before travelling.",
+      "styles": [
+        "Red"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Pinot Noir",
+        "Chardonnay",
+        "Gewürztraminer",
+        "Sauvignon Blanc",
+        "Riesling"
+      ],
+      "experiences": [
+        "Tastings",
+        "Cellar tour",
+        "Stay"
+      ],
+      "website": "http://salla.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/salla-estate-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-santa-sarah",
+      "sourceSlug": "santa-sarah",
+      "name": "Santa Sarah",
+      "locality": "Goritsa",
+      "province": "Province not documented",
+      "region": "rose-valley",
+      "lat": 43.270719,
+      "lon": 26.091959,
+      "address": "Ivailo 2, Goritsa, 8225",
+      "summary": "A winery in Goritsa, mapped within the Rose Valley, with directory tags including Cabernet Sauvignon and Merlot. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Chardonnay",
+        "Sauvignon Blanc"
+      ],
+      "experiences": [],
+      "website": "http://www.santa-sarah.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/santa-sarah",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-seven-generations-winery",
+      "sourceSlug": "seven-generations-winery",
+      "name": "Seven Generations Winery",
+      "locality": "Мечка",
+      "province": "RS",
+      "region": "rose-valley",
+      "lat": 43.710846,
+      "lon": 25.815377,
+      "address": "\"Tsar Boris I\" 57 Str., Мечка, RS, 7091",
+      "summary": "A winery in Мечка, mapped within the Rose Valley, with directory tags including Cabernet Franc and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Cabernet Sauvignon",
+        "Merlot"
+      ],
+      "experiences": [
+        "Tastings",
+        "Cellar tour"
+      ],
+      "website": "http://sevengenerations.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/seven-generations-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-seven-generations-winery-hotel",
+      "sourceSlug": "seven-generations-winery-hotel",
+      "name": "Seven Generations Winery Hotel",
+      "locality": "Мечка",
+      "province": "RS",
+      "region": "rose-valley",
+      "lat": 43.710846,
+      "lon": 25.815377,
+      "address": "\"Tsar Boris I\" 57 Str., Мечка, RS, 7091",
+      "summary": "A winery in Мечка, mapped within the Rose Valley, with directory tags including Cabernet Franc and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Cabernet Sauvignon",
+        "Merlot"
+      ],
+      "experiences": [
+        "Restaurant",
+        "Family-friendly"
+      ],
+      "website": "http://sevengenerations.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/seven-generations-winery-hotel",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-sintica-winery",
+      "sourceSlug": "sintica-winery",
+      "name": "Sintica Winery",
+      "locality": "Sandanski",
+      "province": "Blagoevgrad",
+      "region": "struma-valley",
+      "lat": 41.550391,
+      "lon": 23.268893,
+      "address": "Sandanski, Blagoevgrad Province, 2800",
+      "summary": "A winery in Sandanski, mapped within the Struma Valley, with directory tags including Cabernet Franc and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Cabernet Sauvignon",
+        "Melnik",
+        "Rubin",
+        "Chardonnay",
+        "Sauvignon Blanc",
+        "Moscato"
+      ],
+      "experiences": [
+        "Tastings",
+        "Cellar tour"
+      ],
+      "website": "http://sinticawinery.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/sintica-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-sopot-winery",
+      "sourceSlug": "sopot-winery",
+      "name": "Sopot Winery",
+      "locality": "Sopot",
+      "province": "Plovdiv",
+      "region": "rose-valley",
+      "lat": 42.640392,
+      "lon": 24.752244,
+      "address": "E871, Sopot, Sopot, Plovdiv, 4330",
+      "summary": "A winery in Sopot, mapped within the Rose Valley, with directory tags including Cabernet Sauvignon and Sauvignon Blanc. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Sauvignon Blanc"
+      ],
+      "experiences": [],
+      "website": "http://www.sopot-winery.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/sopot-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-stambolovo-winery",
+      "sourceSlug": "stambolovo-winery",
+      "name": "Stambolovo Winery",
+      "locality": "Stambolovo",
+      "province": "Haskovo",
+      "region": "thracian-lowland",
+      "lat": 41.776289,
+      "lon": 25.642793,
+      "address": "100 5074, Stambolovo, Haskovo, 6362",
+      "summary": "A winery in Stambolovo, mapped within the Thracian Lowland, with directory tags including Cabernet Sauvignon and Mavrud. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Mavrud",
+        "Merlot",
+        "Chardonnay",
+        "Dimyat",
+        "Moscato",
+        "Tamyanka"
+      ],
+      "experiences": [],
+      "website": "http://stambolovo-winery.com/",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/stambolovo-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-starata-izba-parvenets",
+      "sourceSlug": "starata-izba-parvenets",
+      "name": "Starata Izba Parvenets",
+      "locality": "Parvenets",
+      "province": "Plovdiv",
+      "region": "thracian-lowland",
+      "lat": 42.072075,
+      "lon": 24.66106,
+      "address": "Parvenets, Plovdiv, 4110",
+      "summary": "A winery in Parvenets, mapped within the Thracian Lowland. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [],
+      "experiences": [
+        "Tastings"
+      ],
+      "website": "http://starataizba-parvenetz.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/starata-izba-parvenets",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-staro-oryahovo-winery",
+      "sourceSlug": "staro-oryahovo-winery",
+      "name": "Staro Oryahovo Winery",
+      "locality": "Staro Oryahovo",
+      "province": "Varna",
+      "region": "black-sea",
+      "lat": 42.990103,
+      "lon": 27.794544,
+      "address": "Staro Oryahovo, Dolni chiflik, Varna, 9110",
+      "summary": "A winery in Staro Oryahovo, mapped within the Black Sea Coast, with directory tags including Cabernet Sauvignon and Merlot. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Chardonnay",
+        "Gewürztraminer",
+        "Misket",
+        "Pinot Noir",
+        "Syrah"
+      ],
+      "experiences": [],
+      "website": "http://www.sow.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/staro-oryahovo-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-stema-starosel",
+      "sourceSlug": "stema-starosel",
+      "name": "Stema Starosel",
+      "locality": "Starosel",
+      "province": "Plovdiv",
+      "region": "rose-valley",
+      "lat": 42.487888,
+      "lon": 24.565778,
+      "address": "ул. Георги Димитров №60, Starosel, Hisarya, Plovdiv Province, 4175",
+      "summary": "A winery in Starosel, mapped within the Rose Valley, with directory tags including Cabernet Sauvignon and Merlot. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Rkaziteli",
+        "Misket"
+      ],
+      "experiences": [
+        "Tastings",
+        "Cellar tour",
+        "Restaurant",
+        "Events",
+        "Family-friendly"
+      ],
+      "website": "http://www.stema-starosel.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/stema-starosel",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-telish-winery",
+      "sourceSlug": "telish-winery",
+      "name": "Telish Winery",
+      "locality": "Sofia",
+      "province": "Sofia-city",
+      "region": "thracian-lowland",
+      "lat": 42.672963,
+      "lon": 23.328841,
+      "address": "7 ulitsa \"Yakubitsa\", Sofia, Sofia, Sofia-city, 1164",
+      "summary": "A winery in Sofia, mapped within the Thracian Lowland, with directory tags including Cabernet Sauvignon and Mavrud. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Mavrud",
+        "Merlot",
+        "Sangiovese",
+        "Chardonnay",
+        "Sauvignon Blanc"
+      ],
+      "experiences": [],
+      "website": "http://telish.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/telish-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-terra-tangra",
+      "sourceSlug": "terra-tangra",
+      "name": "Terra Tangra",
+      "locality": "Terra Tangra Winery",
+      "province": "Haskovo",
+      "region": "thracian-lowland",
+      "lat": 41.947386,
+      "lon": 25.91104,
+      "address": "Terra Tangra Winery, Harmanli, Haskovo Province, 6450",
+      "summary": "A winery in Terra Tangra Winery, mapped within the Thracian Lowland, with directory tags including Cabernet Franc and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Cabernet Sauvignon",
+        "Mavrud",
+        "Melnik",
+        "Merlot",
+        "Rubin",
+        "Chardonnay",
+        "Gewürztraminer"
+      ],
+      "experiences": [
+        "Tastings",
+        "Cellar tour"
+      ],
+      "organic": true,
+      "website": "http://www.terratangra.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/terra-tangra",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-tohun-winery",
+      "sourceSlug": "tohun-winery",
+      "name": "Tohun Winery",
+      "locality": "Pomorie",
+      "province": "Burgas",
+      "region": "black-sea",
+      "lat": 42.568049,
+      "lon": 27.61557,
+      "address": "47, \"Knyaz Boris I\" str. “Kosharite” District, Pomorie, Pomorie, Burgas, 8200",
+      "summary": "A winery in Pomorie, mapped within the Black Sea Coast, with directory tags including Cabernet Franc and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Cabernet Sauvignon",
+        "Melnik",
+        "Chardonnay",
+        "Sauvignon Blanc"
+      ],
+      "experiences": [],
+      "website": "http://tohun.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/tohun-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-tsarev-brod",
+      "sourceSlug": "tsarev-brod",
+      "name": "Tsarev Brod",
+      "locality": "Tsarev Brod",
+      "province": "Shumen",
+      "region": "black-sea",
+      "lat": 43.329038,
+      "lon": 27.01053,
+      "address": "Tsarev Brod, Shumen, Shumen Province, 9747",
+      "summary": "A winery in Tsarev Brod, mapped within the Black Sea Coast, with directory tags including Chardonnay and Gewürztraminer. Verify current visitor access before travelling.",
+      "styles": [
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Chardonnay",
+        "Gewürztraminer",
+        "Sauvignon Blanc",
+        "Riesling",
+        "Pinot Noir"
+      ],
+      "experiences": [],
+      "website": "http://en.tsarevbrod.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/tsarev-brod",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-varna-winery",
+      "sourceSlug": "varna-winery",
+      "name": "Varna Winery",
+      "locality": "Varna",
+      "province": "Varna",
+      "region": "black-sea",
+      "lat": 43.21278,
+      "lon": 27.93467,
+      "address": "Nikola Vapcarov 3, floor 3, office 4, Varna, Varna, 9010",
+      "summary": "A winery in Varna, mapped within the Black Sea Coast, with directory tags including Cabernet Franc and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Sangiovese",
+        "Chardonnay",
+        "Sauvignon Blanc",
+        "Misket",
+        "Riesling"
+      ],
+      "experiences": [
+        "Tastings",
+        "Cellar tour",
+        "Restaurant"
+      ],
+      "website": "http://www.varnawinery.eu",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/varna-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-verde",
+      "sourceSlug": "verde",
+      "name": "Via Verde",
+      "locality": "Sofia",
+      "province": "Sofia-city",
+      "region": "thracian-lowland",
+      "lat": 42.683981,
+      "lon": 23.328016,
+      "address": "5 ulitsa \"Sinchets\" 1st floor, Sofia, Sofia-city, 1164",
+      "summary": "A winery in Sofia, mapped within the Thracian Lowland, with directory tags including Cabernet Sauvignon and Merlot. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Misket",
+        "Moscato"
+      ],
+      "experiences": [],
+      "website": "http://viaverde-m.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/verde",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-villa-lyubimets-winery",
+      "sourceSlug": "villa-lyubimets-winery",
+      "name": "Villa Lyubimets Winery",
+      "locality": "Plovdiv",
+      "province": "Plovdiv",
+      "region": "thracian-lowland",
+      "lat": 42.154174,
+      "lon": 24.76089,
+      "address": "154 bulevard \"Maritsa\", Plovdiv, Plovdiv, 4000",
+      "summary": "A winery in Plovdiv, mapped within the Thracian Lowland, with directory tags including Cabernet Sauvignon and Mavrud. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Mavrud",
+        "Melnik",
+        "Merlot",
+        "Chardonnay",
+        "Sauvignon Blanc",
+        "Misket",
+        "Riesling"
+      ],
+      "experiences": [],
+      "website": "http://www.villalyubimets.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/villa-lyubimets-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-villa-santa-maria",
+      "sourceSlug": "villa-santa-maria",
+      "name": "Villa Santa Maria",
+      "locality": "Plovdiv",
+      "province": "Plovdiv",
+      "region": "thracian-lowland",
+      "lat": 42.148061,
+      "lon": 24.732455,
+      "address": "bulevard \"6-ti septemvri\" офис 4-2Б, Административен център \"Легис, Plovdiv, Plovdiv",
+      "summary": "A winery in Plovdiv, mapped within the Thracian Lowland, with directory tags including Petit Verdot and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Petit Verdot",
+        "Cabernet Sauvignon",
+        "Mavrud",
+        "Rubin",
+        "Chardonnay",
+        "Sauvignon Blanc"
+      ],
+      "experiences": [],
+      "website": "http://www.santamaria.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/villa-santa-maria",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-villa-terres",
+      "sourceSlug": "villa-terres",
+      "name": "Villa Terres",
+      "locality": "Пазарджик",
+      "province": "PZ",
+      "region": "thracian-lowland",
+      "lat": 42.26175,
+      "lon": 24.171982,
+      "address": "Пазарджик, PZ, 4484",
+      "summary": "A winery in Пазарджик, mapped within the Thracian Lowland, with directory tags including Cabernet Sauvignon and Merlot. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Chardonnay",
+        "Sauvignon Blanc"
+      ],
+      "experiences": [
+        "Tastings",
+        "Cellar tour"
+      ],
+      "website": "http://www.villaterres.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/villa-terres",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-vinex-preslav",
+      "sourceSlug": "vinex-preslav",
+      "name": "Vinex Preslav",
+      "locality": "Veliki Preslav",
+      "province": "Shumen",
+      "region": "black-sea",
+      "lat": 43.164541,
+      "lon": 26.817968,
+      "address": "Veliki Preslav, Veliki Preslav, Shumen Province, 9850",
+      "summary": "A winery in Veliki Preslav, mapped within the Black Sea Coast, with directory tags including Cabernet Sauvignon and Mavrud. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Mavrud",
+        "Merlot",
+        "Chardonnay",
+        "Gewürztraminer",
+        "Sauvignon Blanc",
+        "Riesling"
+      ],
+      "experiences": [],
+      "website": "http://vinex.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/vinex-preslav",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-vinex-slavyantsi",
+      "sourceSlug": "vinex-slavyantsi",
+      "name": "Vinex Slavyantsi",
+      "locality": "Slavyantsi",
+      "province": "Burgas",
+      "region": "rose-valley",
+      "lat": 42.765144,
+      "lon": 26.731007,
+      "address": "Slavyantsi, Sungurlare, Burgas, 8460",
+      "summary": "A winery in Slavyantsi, mapped within the Rose Valley, with directory tags including Cabernet Franc and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Chardonnay",
+        "Gewürztraminer",
+        "Sauvignon Blanc",
+        "Misket",
+        "Moscato"
+      ],
+      "experiences": [],
+      "website": "http://www.vinexbg.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/vinex-slavyantsi",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-winery-wine-union",
+      "sourceSlug": "winery-wine-union",
+      "name": "Winery Wine Union",
+      "locality": "Nisovo",
+      "province": "Ruse",
+      "region": "danube-plain",
+      "lat": 43.653407,
+      "lon": 26.069644,
+      "address": "Nisovo, Ivanovo, Ruse, 7079",
+      "summary": "A winery in Nisovo, mapped within the Danube Plain, with directory tags including Cabernet Franc and Cabernet Sauvignon. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Chardonnay",
+        "Gewürztraminer",
+        "Rkaziteli",
+        "Sauvignon Blanc",
+        "Moscato"
+      ],
+      "experiences": [
+        "Tastings"
+      ],
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/winery-wine-union",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-yamantievs",
+      "sourceSlug": "yamantievs",
+      "name": "Yamantiev's",
+      "locality": "Ivaylovgrad",
+      "province": "Haskovo",
+      "region": "thracian-lowland",
+      "lat": 41.526698,
+      "lon": 26.124272,
+      "address": "Ivaylovgrad, Ivaylovgrad, Haskovo Province, 6570",
+      "summary": "A winery in Ivaylovgrad, mapped within the Thracian Lowland, with directory tags including Cabernet Sauvignon and Merlot. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Pinot Noir",
+        "Chardonnay",
+        "Gewürztraminer",
+        "Moscato",
+        "Viognier"
+      ],
+      "experiences": [],
+      "website": "http://yamantievs.com",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/yamantievs",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-zelanos-winery",
+      "sourceSlug": "zelanos-winery",
+      "name": "Zelanos Winery",
+      "locality": "Slavyantsi",
+      "province": "Burgas",
+      "region": "rose-valley",
+      "lat": 42.765144,
+      "lon": 26.731007,
+      "address": "Slavyantsi, Sungurlare, Burgas, 8460",
+      "summary": "A winery in Slavyantsi, mapped within the Rose Valley, with directory tags including Cabernet Franc and Merlot. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Franc",
+        "Merlot",
+        "Pinot Noir",
+        "Misket"
+      ],
+      "experiences": [],
+      "website": "https://www.facebook.com/ZelanosWinery/",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/zelanos-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    },
+    {
+      "id": "directory-zlaten-rozhen-winery",
+      "sourceSlug": "zlaten-rozhen-winery",
+      "name": "Zlaten Rozhen Winery",
+      "locality": "Rozhen",
+      "province": "Blagoevgrad",
+      "region": "struma-valley",
+      "lat": 41.534597,
+      "lon": 23.43348,
+      "address": "Rozhen, Sandanski, Blagoevgrad Province, 2820",
+      "summary": "A winery in Rozhen, mapped within the Struma Valley, with directory tags including Cabernet Sauvignon and Merlot. Verify current visitor access before travelling.",
+      "styles": [
+        "Red",
+        "White",
+        "Rosé"
+      ],
+      "grapes": [
+        "Cabernet Sauvignon",
+        "Merlot",
+        "Moscato"
+      ],
+      "experiences": [
+        "Tastings",
+        "Cellar tour"
+      ],
+      "website": "http://www.zlatenrozhen.bg",
+      "sourceUrl": "https://www.bulgarianwine.net/wineries/zlaten-rozhen-winery",
+      "sourceLabel": "BulgarianWine.net",
+      "sourceCheckedAt": "2026-09-01",
+      "coordinatePrecision": "directory",
+      "dataStatus": "directory"
+    }
+  ],
+  "failures": [
+    {
+      "path": "/wineries/trastena",
+      "reason": "No usable Bulgaria coordinate in directory record"
+    },
+    {
+      "path": "/wineries/spiritus-sanctus",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/uva-nestum-winery",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/orbelus-organic-winery",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/domain-marash",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/angelus-estate",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/logodaj-winery",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/malkata-zvezda",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/four-friends",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/kordopulova-house",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/orbelia-winery",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/medi-valley-winery",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/shumen-winery-domaine-boyar",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/korten-winery-domaine-boyar",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/sinite-skali-winery-domaine-boyar",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/boiar-winery",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/mezek-wine-cellar",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/brestovitsa-winery",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/katarzyna-estate",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/zagreus-winery",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/starosel-winery",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/todoroff-wine-cellar",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/dragomir-winery-estate",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/villa-yustina",
+      "reason": "fetch failed"
+    },
+    {
+      "path": "/wineries/villa-melnik",
+      "reason": "fetch failed"
+    }
+  ]
+}

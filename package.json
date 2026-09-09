@@ -1,5 +1,7 @@
 {
   "scripts": {
+    "install:bgr": "npm ci --prefix bgr/bg_housing && npm ci --prefix bgr/bg_wine",
+    "build:bgr": "npm run build --prefix bgr/bg_housing && npm run build --prefix bgr/bg_wine",
     "lint:prettier": "prettier . --check",
     "lint:style-contract": "node test/style_contract.js",
     "test:visual": "playwright test --config test/visual/playwright.config.js",

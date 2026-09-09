@@ -7,6 +7,7 @@ on:
       - main
     paths:
       - "assets/**"
+      - "bgr/**"
       - "**.bib"
       - "**.html"
       - "**.js"
@@ -15,6 +16,8 @@ on:
       - "**.yml"
       - "Gemfile"
       - "Gemfile.lock"
+      - "package.json"
+      - "package-lock.json"
       - "!.github/workflows/axe.yml"
       - "!.github/workflows/broken-links.yml"
       - "!.github/workflows/deploy-docker-tag.yml"
@@ -34,6 +37,7 @@ on:
       - main
     paths:
       - "assets/**"
+      - "bgr/**"
       - "**.bib"
       - "**.html"
       - "**.js"
@@ -42,6 +46,8 @@ on:
       - "**.yml"
       - "Gemfile"
       - "Gemfile.lock"
+      - "package.json"
+      - "package-lock.json"
       - "!.github/workflows/axe.yml"
       - "!.github/workflows/broken-links.yml"
       - "!.github/workflows/deploy-docker-tag.yml"
@@ -82,8 +88,14 @@ jobs:
         with:
           node-version: "20"
           cache: "npm"
+          cache-dependency-path: |
+            package-lock.json
+            bgr/bg_housing/package-lock.json
+            bgr/bg_wine/package-lock.json
       - name: Install JS deps 📦
-        run: npm ci
+        run: |
+          npm ci
+          npm run install:bgr
       - name: Update _config.yml ⚙️
         uses: fjogeleit/yaml-update-action@main
         with:
@@ -101,6 +113,8 @@ jobs:
         run: |
           npm install -g purgecss
           purgecss -c purgecss.config.js
+      - name: Build BGR apps 🇧🇬
+        run: npm run build:bgr
       - name: Deploy 🚀
         if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4
