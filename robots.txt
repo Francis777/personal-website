@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://francis777.github.io/personal-website/sitemap.xml
+Sitemap: https://lljw.xyz/sitemap.xml
