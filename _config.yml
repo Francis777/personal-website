@@ -223,6 +223,7 @@ exclude:
   - AGENTS.md
   - al-folio-upgrade-report.md
   - bin/
+  - bgr/
   - CLAUDE.md
   - Dockerfile
   - docker-compose.yml
