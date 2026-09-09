@@ -8,7 +8,10 @@
 set -euo pipefail
 
 tmp_dir="$(mktemp -d)"
+rtl_fixture="_pages/rtl-integration-fixture.md"
+marimo_fixture="_pages/marimo-integration-fixture.md"
 cleanup() {
+  rm -f "${rtl_fixture}" "${marimo_fixture}"
   rm -rf "${tmp_dir}"
 }
 trap cleanup EXIT
@@ -17,7 +20,7 @@ build() {
   local name="$1"
   shift
   local out="${tmp_dir}/site-${name}"
-  bundle exec jekyll build "$@" -d "${out}" >/dev/null
+  bundle exec jekyll build --disable-disk-cache "$@" -d "${out}" >/dev/null
   echo "${out}"
 }
 
@@ -26,11 +29,35 @@ fail() {
   exit 1
 }
 
+cat >"${rtl_fixture}" <<'MARKDOWN'
+---
+layout: post
+title: RTL integration fixture
+permalink: /test/plugins/rtl/
+lang: fa
+---
+
+Temporary RTL integration fixture.
+MARKDOWN
+
+cat >"${marimo_fixture}" <<'MARKDOWN'
+---
+layout: post
+title: Marimo integration fixture
+permalink: /test/plugins/marimo/
+marimo: true
+---
+
+<div class="al-marimo-inline" markdown="1">
+Temporary Marimo integration fixture.
+</div>
+MARKDOWN
+
 # --- al_rtl -----------------------------------------------------------------
 
 default_site="$(build default)"
 
-rtl_page="${default_site}/blog/2022/rtl/index.html"
+rtl_page="${default_site}/test/plugins/rtl/index.html"
 [ -f "${rtl_page}" ] || fail "RTL demo post was not built"
 
 # dir must sit on <html>, not on a wrapper: that is what the browser's bidi
@@ -49,7 +76,7 @@ grep -q 'assets/al_rtl/css/rtl.css' "${default_site}/index.html" && fail "home p
 
 # --- al_marimo --------------------------------------------------------------
 
-marimo_page="${default_site}/blog/2025/marimo/index.html"
+marimo_page="${default_site}/test/plugins/marimo/index.html"
 [ -f "${marimo_page}" ] || fail "marimo demo post was not built"
 
 grep -q 'assets/al_marimo/js/marimo-snippets.js' "${marimo_page}" || fail "marimo post does not load the runtime"
