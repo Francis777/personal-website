@@ -14,8 +14,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a machine learning software engineer at [Wayve](https://wayve.ai), [reimagining an autonomous vehicle](https://wayve.ai/blog/a-new-approach-to-self-driving-av2-0/) here in London.
+I am a machine learning engineer at [Wayve](https://wayve.ai) in London, working on generative policies for autonomous driving.
 
-I'm interested in the theory of _learning to control from demonstration_ and its application on pixel -> control tasks. My favourite (brief) summaries on this topic are [this blog post](https://www.argmin.net/2020/06/29/tour-revisited/) and [this talk](https://youtu.be/o7qENRDB2ug), both by Prof. Ben Recht.
+I am interested in learning-based control: how models can learn driving behaviour from data and turn visual observations into robust actions. Two concise introductions that shaped my thinking are [this blog post](https://www.argmin.net/2020/06/29/tour-revisited/) and [this talk](https://youtu.be/o7qENRDB2ug), both by Prof. Ben Recht.
 
-In my spare time I make emo rap beats, my favourite producers are [Tahj Money](https://genius.com/artists/Tahj-money) and [Chopsquad DJ](https://genius.com/artists/Chopsquad-dj).
+In my spare time, I make emo-rap beats. Two of my favourite producers are [Tahj Money](https://genius.com/artists/Tahj-money) and [Chopsquad DJ](https://genius.com/artists/Chopsquad-dj).

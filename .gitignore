@@ -1,4 +1,5 @@
 _site
+assets/resized/
 .bundle
 .sass-cache
 .jekyll-cache
@@ -6,5 +7,4 @@ _site
 .DS_store
 .ruby-version
 .tweet-cache
-Gemfile.lock
 vendor

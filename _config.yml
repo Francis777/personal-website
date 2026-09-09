@@ -7,15 +7,16 @@ first_name: Xieyuan
 middle_name: (Francis)
 last_name: ZHANG
 email: francis.zhxy@gmail.com
-description: # the ">" symbol means to ignore newlines until "footer_text:"
+description: Machine learning engineer working on generative policies for autonomous driving.
 footer_text:
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with the <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   <br><a href="https://youtu.be/Jc_ppcB7_Yk"><b>L</b>ong <b>L</b>ive <b>J</b>uice <b>W</b>rld</a>. 999 Forever.
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: # the emoji used as the favicon (use Wayve favicon instead)
-url: https://francis777.github.io/personal-website # the base hostname & protocol for your site
+url: https://lljw.xyz # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
+repository: Francis777/personal-website # used by jekyll-github-metadata during local and CI builds
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -77,8 +78,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: LfD # your blog must have a name for it to show up in the nav bar
-blog_description: Notes and Thoughts on Learning from Demonstrations
+blog_name: # set this when the first blog post is ready; a blank value hides the empty blog
+blog_description:
 permalink: /blog/:year/:title/
 
 # Pagination
