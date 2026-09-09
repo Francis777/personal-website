@@ -3,7 +3,7 @@ layout: page
 title: BGR
 permalink: /bgr/
 description: Interactive data projects about housing and wine in Bulgaria.
-nav: true
+nav: false
 nav_order: 2
 ---
 
