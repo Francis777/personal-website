@@ -36,6 +36,10 @@ on:
 
 jobs:
   visual-regression:
+    # This parity contract compares the stock v1 starter with the stock v0.16.3
+    # site. Personalized forks intentionally change the content and routes, so
+    # comparing them with the upstream demo produces meaningless failures.
+    if: github.repository == 'alshedivat/al-folio'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
