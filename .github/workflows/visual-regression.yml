@@ -36,6 +36,10 @@ on:
 
 jobs:
   visual-regression:
+    # This parity contract compares the stock v1 starter with the stock v0.16.3
+    # site. Personalized forks intentionally change the content and routes, so
+    # comparing them with the upstream demo produces meaningless failures.
+    if: github.repository == 'alshedivat/al-folio'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
@@ -62,7 +66,20 @@ jobs:
       - name: Prepare baseline worktree (v0.16.3) 🧱
         run: |
           set -euo pipefail
-          git worktree add ../al-folio-baseline v0.16.3
+          BASELINE_REPOSITORY="https://github.com/alshedivat/al-folio.git"
+          BASELINE_TAG="v0.16.3"
+          BASELINE_COMMIT="b5ecd1a6bd3f94474a87710c76fd81cf9f0e0fa2"
+
+          # Forks do not automatically inherit upstream tags. Fetch the baseline
+          # from the canonical repository and verify it has not moved before use.
+          git fetch --no-tags "$BASELINE_REPOSITORY" "refs/tags/$BASELINE_TAG"
+          RESOLVED_BASELINE_COMMIT="$(git rev-parse 'FETCH_HEAD^{commit}')"
+          if [ "$RESOLVED_BASELINE_COMMIT" != "$BASELINE_COMMIT" ]; then
+            echo "Expected $BASELINE_TAG to resolve to $BASELINE_COMMIT, got $RESOLVED_BASELINE_COMMIT" >&2
+            exit 1
+          fi
+
+          git worktree add --detach ../al-folio-baseline "$RESOLVED_BASELINE_COMMIT"
           (cd ../al-folio-baseline && bundle install && npm ci)
 
           # This suite measures *rendering* parity, so the two sides have to be

@@ -24,8 +24,10 @@ latest_posts:
   limit: 3
 ---
 
-I am a machine learning engineer at [Wayve](https://wayve.ai) in London, working on generative policies for autonomous driving.
+I am a machine learning engineer at [Wayve Labs](https://wayve.ai/labs/) in London, where I work on reinforcement learning and generative policies for autonomous driving.
 
-I am interested in learning-based control: how models can learn driving behaviour from data and turn visual observations into robust actions. Two concise introductions that shaped my thinking are [this blog post](https://www.argmin.net/2020/06/29/tour-revisited/) and [this talk](https://youtu.be/o7qENRDB2ug), both by Prof. Ben Recht.
+For a glimpse into our work on reinforcement learning at Wayve, see [this talk](https://youtu.be/V20mxUp1NE0?si=GRcHNv7bcb9VmmYF&t=468) given by our CEO, Alex, at the [CVPR 2026 Workshop on Autonomous Driving](https://cvpr2026.wad.vision/).
 
-In my spare time, I make emo-rap beats. Two of my favourite producers are [Tahj Money](https://genius.com/artists/Tahj-money) and [Chopsquad DJ](https://genius.com/artists/Chopsquad-dj).
+I have long been interested in <span style="color: var(--global-danger-block-text); font-family: Georgia, 'Times New Roman', serif; font-weight: 600;">learning control policies directly from pixels</span>. Although my primary focus is end-to-end autonomous driving, closing the loop between observation and action is a challenge shared across many intelligent systems. I draw inspiration from progress in other fields, from contact-rich robotic manipulation ([π\*0.6](https://www.pi.website/blog/pistar06)) to computer-use agents ([Yutori Navigator](https://yutori.com/blog/introducing-navigator)).
+
+Over the past few years, I have learned a great deal from the broader robot learning and reinforcement learning communities. Here's a non-exhaustive, chronological collection of [talks]({% link _pages/talks.md %}) that have shaped my research view and taste.
