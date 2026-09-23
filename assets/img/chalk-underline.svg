@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 9" preserveAspectRatio="none">
+  <defs>
+    <filter id="roughen" x="-5%" y="-80%" width="110%" height="260%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.035 0.8" numOctaves="2" seed="17" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="0.8" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+  </defs>
+  <g fill="none" stroke="#d08b95" stroke-linecap="round" filter="url(#roughen)">
+    <path d="M-1 4.3H121" stroke-width="2" opacity=".55"/>
+    <path d="M-1 5.1H121" stroke-width=".7" stroke-dasharray="5 3 1 4" opacity=".36"/>
+  </g>
+  <g fill="#d08b95" opacity=".22">
+    <circle cx="17" cy="7.1" r=".45"/>
+    <circle cx="43" cy="2.1" r=".35"/>
+    <circle cx="69" cy="7.2" r=".4"/>
+    <circle cx="94" cy="2.2" r=".3"/>
+    <circle cx="111" cy="6.8" r=".35"/>
+  </g>
+</svg>
