@@ -1,0 +1,33 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+@use "sass:math";
+@use "sass:string";
+
+@use "variables" with (
+  $max-content-width: {{ site.max_width | default:  "930px" }}
+);
+
+@use "themes";
+@use "layout";
+@use "typography";
+@use "navbar";
+@use "footer";
+@use "blog";
+@use "publications";
+@use "components";
+@use "utilities";
+@use "tabs";
+@use "teachings";
+@use "typograms";
+
+/* Site typography: use one editorial family for content and site chrome. */
+body,
+.navbar,
+.post-title,
+footer.fixed-bottom,
+footer.sticky-bottom {
+  font-family: "EB Garamond", Georgia, "Times New Roman", serif;
+}
